@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my GitHub!
+All the code for my projects lands here
+
+Check out my final builds [here](https://aldovelop.itch.io/)!
 
 <!--
 **aldovelop/aldovelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
